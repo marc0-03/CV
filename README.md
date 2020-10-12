@@ -1,10 +1,10 @@
 # CV
  mitt CV
  
- ##komponenter
- ###brö
+ ## komponenter
+ ### brö
  bröv
- ##struktur
- ##färg
- ##typsnitt
- ##visuella element
+ ## struktur
+ ## färg
+ ## typsnitt
+ ## visuella element
