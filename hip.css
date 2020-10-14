@@ -1,8 +1,31 @@
 html {
+    text-align: left;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
 
 }
 
-.bro {
+h1 {
+    font-size: 4rem;
+}
+
+.rubrik {
+    font-size: 2rem;
+    color: green;
+    text-decoration-line: underline;
+}
+
+.tipytop {
+    position: fixed;
+}
+
+.dragon {
     float: right;
 }
 
+ul {
+    list-style: none;
+}
