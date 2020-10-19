@@ -1,15 +1,27 @@
 html {
     text-align: left;
+    cursor: progress;
 }
 
 body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 1rem;
-
+    text-transform: capitalize;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    text-align: left;
 }
 
 h1 {
     font-size: 4rem;
+}
+
+h4 {
+    color: darkgrey;
+    line-height: 0rem;
+}
+h3 {
+    line-height: 0rem;
 }
 
 .rubrik {
@@ -22,10 +34,42 @@ h1 {
     position: fixed;
 }
 
-.dragon {
-    float: right;
+ul {
+    list-style: disc;
 }
 
-ul {
-    list-style: none;
+h6 {
+    border-radius: 10rem;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(19, 19, 19);
+    display: flex;
+    
+}
+
+a {
+    display: block;
+    padding-right: 2rem;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+a :hover {
+}
+
+#tem {
+    text-align: left;
+    width: 3rem;
+    height: 3rem;
+    padding-right: 1rem;
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
 }
