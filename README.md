@@ -14,6 +14,9 @@
  va?
  ## färg
  grönt eftersom nathan spenderar en större del av sina spel i någon typ av natur
+ 
+ efter "2 stars 1 wish" valde jag att hitta ett färg schema
+ https://colorhunt.co/palette/202238
  ## typsnitt
  vet inte riktigt kommer testa mig fram
  ## visuella element
